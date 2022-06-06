@@ -19,6 +19,8 @@ Licenses
 Consents
 Contribution Agreements
 
+E.g.=[http://www.commonaccord.org/index.php?action=list&file=S/Index/DataSharing/]
+
 
 2.2. Format for relevant projects:
 - Project Name
